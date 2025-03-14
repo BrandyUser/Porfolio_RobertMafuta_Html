@@ -1,0 +1,33 @@
+* {
+    @media screen {
+        
+    }
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.topBar{
+    display: flex;
+}
+
+.topBar li {
+    text-decoration: none;
+    
+}
+
+.imgUser{
+    height: 30%;
+    width: 30%;
+    border-radius: 50%;
+
+}
+
+.content{
+
+}
+
+.content button{
+    border-radius: 50%;
+}
